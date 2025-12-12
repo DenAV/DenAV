@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Here you will find various projects and repositori
 ## Projects
 
 - **Project 1**: [Ansible role for Nginx Proxy Manager](https://github.com/DenAV/nginx-proxy-manager-ansible).
-- **Project 2**: [Zabbix Docker with Ansible](https://github.com/DenAV/ansible-zabbix-docker).
+- **Project 2**: [Ansible rolle for Zabbix Docker](https://github.com/DenAV/ansible-zabbix-docker).
 - **Project 3**: [PowerShell Hyper-V Backup](https://github.com/DenAV/powershell-hyperv-backup).
 
 ## Skills
