@@ -1,36 +1,43 @@
-## Hi there 👋
+# Hi, I'm Denis 👋
 
-<!--
-**DenAV/DenAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer
 
-Here are some ideas to get you started:
+Infrastructure automation, monitoring, and cloud operations.  
+Building reliable systems with code-first approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-# DenAV's GitHub Profile
+## 🛠 Tech Stack
 
-Welcome to my GitHub profile! Here you will find various projects and repositories that I have worked on as part of my DevOps journey.
+**Automation:** Ansible · PowerShell · Terraform  
+**Containers:** Docker · Docker Compose  
+**Monitoring:** Zabbix  
+**Cloud:** Azure · AWS · Hetzner  
+**OS:** Windows Server · Ubuntu · CentOS  
+**Other:** Python · Git · GitHub Actions · CI/CD
 
-## Projects
+---
 
-- **Project 1**: [Ansible role for Nginx Proxy Manager](https://github.com/DenAV/nginx-proxy-manager-ansible).
-- **Project 2**: [Ansible rolle for Zabbix Docker](https://github.com/DenAV/ansible-zabbix-docker).
-- **Project 3**: [PowerShell Hyper-V Backup](https://github.com/DenAV/powershell-hyperv-backup).
+## 📂 Key Projects
 
-## Skills
+| Project | Description |
+|---------|-------------|
+| [nginx-proxy-manager-ansible](https://github.com/DenAV/nginx-proxy-manager-ansible) | Ansible role for deploying and managing Nginx Proxy Manager |
+| [ansible-zabbix-docker](https://github.com/DenAV/ansible-zabbix-docker) | Ansible role for Zabbix stack in Docker |
+| [powershell-hyperv-backup](https://github.com/DenAV/powershell-hyperv-backup) | PowerShell backup solution for Hyper-V virtual machines |
 
-- **Programming Languages**: PowerShell, Python, Yaml.
-<!--
-- **Tools and Technologies**:  
-- **DevOps Practices**: 
--->
+---
 
-Thank you for visiting my profile!
+## 🌱 Currently Learning
+
+- AI Engineering — LLM fundamentals, RAG pipelines, prompt engineering
+- Platform engineering — Dify, Flowise, LangChain, n8n
+- Advanced Terraform patterns and multi-cloud deployments
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenAV&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenAV&layout=compact&hide_border=true)
