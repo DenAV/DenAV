@@ -35,27 +35,12 @@ Building reliable systems with code-first approach.
 
 ### 📂 Key Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/DenAV/nginx-proxy-manager-ansible">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenAV&repo=nginx-proxy-manager-ansible&hide_border=true" alt="nginx-proxy-manager-ansible" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/DenAV/ansible-zabbix-docker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenAV&repo=ansible-zabbix-docker&hide_border=true" alt="ansible-zabbix-docker" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/DenAV/powershell-hyperv-backup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenAV&repo=powershell-hyperv-backup&hide_border=true" alt="powershell-hyperv-backup" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [nginx-proxy-manager-ansible](https://github.com/DenAV/nginx-proxy-manager-ansible) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | Ansible role for deploying and managing Nginx Proxy Manager |
+| [ansible-zabbix-docker](https://github.com/DenAV/ansible-zabbix-docker) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Ansible role for Zabbix monitoring stack in Docker |
+| [powershell-hyperv-backup](https://github.com/DenAV/powershell-hyperv-backup) | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) | Backup solution for Hyper-V virtual machines |
+| [copilot-instructions](https://github.com/DenAV/copilot-instructions) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | Centralized Copilot instructions and skills framework |
 
 ---
 
@@ -75,13 +60,19 @@ Building reliable systems with code-first approach.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DenAV&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenAV&layout=compact&hide_border=true" alt="Top Languages" height="180" />
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=DenAV&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="180" />
+</picture>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenAV&layout=compact&hide_border=true" alt="Top Languages" height="180" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenAV&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <img src="https://streak-stats.demolab.com/?user=DenAV&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 </div>
