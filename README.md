@@ -61,18 +61,5 @@ Building reliable systems with code-first approach.
 <div align="center">
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=DenAV&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="180" />
-</picture>
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenAV&layout=compact&hide_border=true" alt="Top Languages" height="180" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
   <img src="https://streak-stats.demolab.com/?user=DenAV&hide_border=true" alt="GitHub Streak" />
 </picture>
-
-</div>
